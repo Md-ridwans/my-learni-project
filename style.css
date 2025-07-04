@@ -1,0 +1,31 @@
+h1{ font-size: 25px;
+    text-align: center;
+    font: italic;
+    color: rgb(34, 20, 32);
+    text-decoration:underline solid rgba(1, 85, 211, 0.913);
+    
+   
+}
+.bodr{
+    border: 3px solid rgb(111, 33, 184) ;
+    border-radius: 20px;
+    padding: 0px 10px 10px 10px;
+    background-color: rgb(10, 108, 75);
+}
+.im{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+.di{
+    background-color: rgba(170, 0, 255, 0.334);
+    border-radius: 20px;
+    border: 1px solid darkcyan;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.cm{
+    font: italic;
+    text-decoration: underline rgb(113, 32, 32);
+}
