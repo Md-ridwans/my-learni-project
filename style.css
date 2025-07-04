@@ -18,14 +18,28 @@ h1{ font-size: 25px;
     margin-left: 10px;
 }
 .di{
-    background-color: rgba(170, 0, 255, 0.334);
+    background-color: rgba(145, 105, 165, 0.888);
     border-radius: 20px;
     border: 1px solid darkcyan;
     margin-top: 0px;
     margin-bottom: 10px;
+    /* width: 50%;
+    height: 50%;
+    float: left; */
+    
 }
 
-.cm{
+.cm{ text-align: center;
     font: italic;
     text-decoration: underline rgb(113, 32, 32);
+}
+
+.cc{
+    font: italic;
+    color: rgb(91, 6, 219) ;
+    border-radius: 10px;
+    border-bottom: none;
+    border: 5px solid rgba(21, 204, 207, 0.849);
+    margin-left: 10px ;
+    padding: 5px;
 }
