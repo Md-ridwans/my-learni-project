@@ -11,6 +11,7 @@ h1{ font-size: 25px;
     border-radius: 20px;
     padding: 0px 10px 10px 10px;
     background-color: rgb(10, 108, 75);
+    box-shadow: rgba(146, 8, 150, 0.833) 10px 10px 25px;
 }
 .im{
     width: 150px;
@@ -23,6 +24,7 @@ h1{ font-size: 25px;
     border: 1px solid darkcyan;
     margin-top: 0px;
     margin-bottom: 10px;
+    box-shadow: 10px 10px 25px;
     /* width: 50%;
     height: 50%;
     float: left; */
@@ -44,9 +46,10 @@ h1{ font-size: 25px;
     padding: 5px;
 }
 .in{
-    background-color: aqua;
+    background-color: rgb(183, 183, 183);
     border-radius: 20px;
     border: solid rgb(94, 47, 134);
     display: block;
     margin-bottom: 5px;
+    display: inline-block;
 }
